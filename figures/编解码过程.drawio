@@ -1,0 +1,79 @@
+<mxfile host="app.diagrams.net" modified="2023-03-27T14:13:35.193Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="5Qy9HoHFqL_QA-pJO5bF" version="21.1.1" type="github">
+  <diagram name="第 1 页" id="ydfWIhaEGLxtbmc5iYuI">
+    <mxGraphModel dx="897" dy="176" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zWFgQkOOw23ppAw1XXJZ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zWFgQkOOw23ppAw1XXJZ-1" target="zWFgQkOOw23ppAw1XXJZ-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zWFgQkOOw23ppAw1XXJZ-1" value="复数向量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="70" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zWFgQkOOw23ppAw1XXJZ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zWFgQkOOw23ppAw1XXJZ-2" target="zWFgQkOOw23ppAw1XXJZ-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zWFgQkOOw23ppAw1XXJZ-2" value="明文多项式" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="270" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zWFgQkOOw23ppAw1XXJZ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zWFgQkOOw23ppAw1XXJZ-4" target="zWFgQkOOw23ppAw1XXJZ-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zWFgQkOOw23ppAw1XXJZ-4" value="密文多项式" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="470" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zWFgQkOOw23ppAw1XXJZ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zWFgQkOOw23ppAw1XXJZ-6" target="zWFgQkOOw23ppAw1XXJZ-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zWFgQkOOw23ppAw1XXJZ-6" value="密文多项式" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="470" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zWFgQkOOw23ppAw1XXJZ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zWFgQkOOw23ppAw1XXJZ-8" target="zWFgQkOOw23ppAw1XXJZ-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zWFgQkOOw23ppAw1XXJZ-8" value="明文多项式" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="270" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zWFgQkOOw23ppAw1XXJZ-10" value="复数向量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="70" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zWFgQkOOw23ppAw1XXJZ-12" value="$$Encode$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="180" y="480" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zWFgQkOOw23ppAw1XXJZ-13" value="$$Encrypt$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="380" y="480" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zWFgQkOOw23ppAw1XXJZ-14" value="$$Decode$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="190" y="620" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zWFgQkOOw23ppAw1XXJZ-15" value="$$Decrypt$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="390" y="620" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zWFgQkOOw23ppAw1XXJZ-19" value="$$C^{N/2}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="85" y="440" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zWFgQkOOw23ppAw1XXJZ-20" value="$$C^{N/2}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="80" y="690" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zWFgQkOOw23ppAw1XXJZ-21" value="$$Z[X]/X^N+1$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="275" y="440" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zWFgQkOOw23ppAw1XXJZ-22" value="$$Z[X]/X^N+1$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="275" y="690" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zWFgQkOOw23ppAw1XXJZ-23" value="$$Z_q[X]/X^N+1$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="470" y="440" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zWFgQkOOw23ppAw1XXJZ-24" value="$$Z_q[X]/X^N+1$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="470" y="690" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zWFgQkOOw23ppAw1XXJZ-25" value="$$f(x)$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="515" y="565" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zWFgQkOOw23ppAw1XXJZ-26" value="同态计算" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="560" y="565" width="70" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
