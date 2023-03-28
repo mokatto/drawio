@@ -1,0 +1,247 @@
+<mxfile host="app.diagrams.net" modified="2023-03-28T14:48:22.161Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="X_LxUzcJVuBObEeIuHOJ" version="21.1.1" type="github">
+  <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
+    <mxGraphModel dx="897" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="P2ULtPyCxcWZZ4vpyr7f-1" value="" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="458.8" y="110" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P2ULtPyCxcWZZ4vpyr7f-2" value="用户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="463.8" y="170" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P2ULtPyCxcWZZ4vpyr7f-3" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="50" y="110" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P2ULtPyCxcWZZ4vpyr7f-4" value="服务提供商" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="170" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P2ULtPyCxcWZZ4vpyr7f-6" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#7EA6E0;shape=mxgraph.azure.cloud;" vertex="1" parent="1">
+          <mxGeometry x="248.8" y="117" width="70" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="P2ULtPyCxcWZZ4vpyr7f-8" value="云服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="248.8" y="170" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P2ULtPyCxcWZZ4vpyr7f-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="79.5" y="210" as="sourcePoint" />
+            <mxPoint x="80" y="1220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P2ULtPyCxcWZZ4vpyr7f-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280.7" y="210" as="sourcePoint" />
+            <mxPoint x="280" y="1220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P2ULtPyCxcWZZ4vpyr7f-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480.70000000000005" y="205" as="sourcePoint" />
+            <mxPoint x="480" y="1220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P2ULtPyCxcWZZ4vpyr7f-14" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="79.8" y="250" as="sourcePoint" />
+            <mxPoint x="80" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="119.99999999999999" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P2ULtPyCxcWZZ4vpyr7f-15" value="密钥生成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="119.99999999999999" y="260" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P2ULtPyCxcWZZ4vpyr7f-16" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="79.8" y="350" as="sourcePoint" />
+            <mxPoint x="80" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="119.99999999999999" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P2ULtPyCxcWZZ4vpyr7f-17" value="加密模型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="119.99999999999999" y="360" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P2ULtPyCxcWZZ4vpyr7f-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="78.8" y="450" as="sourcePoint" />
+            <mxPoint x="278.8" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P2ULtPyCxcWZZ4vpyr7f-19" value="发送密文模型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="128.8" y="420" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P2ULtPyCxcWZZ4vpyr7f-21" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="79.8" y="540" as="sourcePoint" />
+            <mxPoint x="80" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="119.99999999999999" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P2ULtPyCxcWZZ4vpyr7f-22" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="540" as="sourcePoint" />
+            <mxPoint x="480.20000000000005" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520.2" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P2ULtPyCxcWZZ4vpyr7f-23" value="构建联合公钥" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="119.99999999999999" y="550" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P2ULtPyCxcWZZ4vpyr7f-24" value="构建联合公钥" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520.2" y="550" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P2ULtPyCxcWZZ4vpyr7f-26" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="470" as="sourcePoint" />
+            <mxPoint x="480.20000000000005" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520.2" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P2ULtPyCxcWZZ4vpyr7f-27" value="密钥生成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520.2" y="480" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P2ULtPyCxcWZZ4vpyr7f-30" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="610" as="sourcePoint" />
+            <mxPoint x="480.2" y="660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520.2" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P2ULtPyCxcWZZ4vpyr7f-31" value="加密待预测数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="518.8000000000001" y="620" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P2ULtPyCxcWZZ4vpyr7f-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="680" as="sourcePoint" />
+            <mxPoint x="280" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P2ULtPyCxcWZZ4vpyr7f-33" value="发送密文数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="650" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P2ULtPyCxcWZZ4vpyr7f-34" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="79.8" y="710" as="sourcePoint" />
+            <mxPoint x="80" y="760" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P2ULtPyCxcWZZ4vpyr7f-35" value="生成重加密密钥" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="115" y="720" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P2ULtPyCxcWZZ4vpyr7f-36" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="78.8" y="790" as="sourcePoint" />
+            <mxPoint x="278.8" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P2ULtPyCxcWZZ4vpyr7f-37" value="发送重加密密钥" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="123.80000000000001" y="760" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P2ULtPyCxcWZZ4vpyr7f-38" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="281.2" y="810" as="sourcePoint" />
+            <mxPoint x="281.4" y="860" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="321.40000000000003" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P2ULtPyCxcWZZ4vpyr7f-39" value="对模型重加密" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="325.00000000000006" y="820" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P2ULtPyCxcWZZ4vpyr7f-40" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="281.2" y="880" as="sourcePoint" />
+            <mxPoint x="281.4" y="930" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="321.40000000000003" y="910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P2ULtPyCxcWZZ4vpyr7f-41" value="同态推理计算" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="325.00000000000006" y="890" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P2ULtPyCxcWZZ4vpyr7f-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="960" as="sourcePoint" />
+            <mxPoint x="480" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P2ULtPyCxcWZZ4vpyr7f-43" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="960" as="sourcePoint" />
+            <mxPoint x="80" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P2ULtPyCxcWZZ4vpyr7f-44" value="发送密文推理结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="118.8" y="930" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P2ULtPyCxcWZZ4vpyr7f-45" value="发送密文推理结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="930" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P2ULtPyCxcWZZ4vpyr7f-46" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="79.8" y="980" as="sourcePoint" />
+            <mxPoint x="80" y="1030" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="1010" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P2ULtPyCxcWZZ4vpyr7f-47" value="部分解密" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="123.8" y="990" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P2ULtPyCxcWZZ4vpyr7f-50" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="980" as="sourcePoint" />
+            <mxPoint x="480.2" y="1030" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520.2" y="1010" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P2ULtPyCxcWZZ4vpyr7f-51" value="部分解密" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="524" y="990" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P2ULtPyCxcWZZ4vpyr7f-52" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="78.80000000000001" y="1070" as="sourcePoint" />
+            <mxPoint x="480" y="1070" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="1070" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P2ULtPyCxcWZZ4vpyr7f-53" value="发送部分解密结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="115" y="1040" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P2ULtPyCxcWZZ4vpyr7f-54" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="1090" as="sourcePoint" />
+            <mxPoint x="480.2" y="1140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520.2" y="1120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P2ULtPyCxcWZZ4vpyr7f-55" value="恢复明文结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="509" y="1100" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
