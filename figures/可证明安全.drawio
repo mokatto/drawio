@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2023-03-27T14:27:07.753Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" version="21.1.1" etag="4zvSwueL1q07qtw5sX0_" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-28T14:12:24.901Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="rBbKArUfDB4JMPzJvoZd" version="21.1.1" type="github">
   <diagram name="第 1 页" id="H3rtifVKTXqs-qG-SYUc">
-    <mxGraphModel>
+    <mxGraphModel dx="1281" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="JFFqr6XXY-S861Ni9DFR-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JFFqr6XXY-S861Ni9DFR-1" target="JFFqr6XXY-S861Ni9DFR-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JFFqr6XXY-S861Ni9DFR-1" value="形式化定义" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="163" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JFFqr6XXY-S861Ni9DFR-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JFFqr6XXY-S861Ni9DFR-2" target="JFFqr6XXY-S861Ni9DFR-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JFFqr6XXY-S861Ni9DFR-2" value="安全目标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JFFqr6XXY-S861Ni9DFR-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JFFqr6XXY-S861Ni9DFR-4" target="JFFqr6XXY-S861Ni9DFR-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JFFqr6XXY-S861Ni9DFR-4" value="安全模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="516" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hfIvKA0UJksPhf_lINR8-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JFFqr6XXY-S861Ni9DFR-6" target="JFFqr6XXY-S861Ni9DFR-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JFFqr6XXY-S861Ni9DFR-6" value="归约到极微本原" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="693" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JFFqr6XXY-S861Ni9DFR-23" value="&lt;font style=&quot;background-color: rgb(0, 0, 0);&quot; color=&quot;#ffffff&quot;&gt;结束&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="860" y="205" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hfIvKA0UJksPhf_lINR8-2" style="edgeStyle=orthogonalEdgeStyle;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="JFFqr6XXY-S861Ni9DFR-20" target="JFFqr6XXY-S861Ni9DFR-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JFFqr6XXY-S861Ni9DFR-20" value="&lt;font style=&quot;background-color: rgb(0, 0, 0);&quot; color=&quot;#ffffff&quot;&gt;开始&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="50" y="205" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
