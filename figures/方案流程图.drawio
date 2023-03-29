@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-29T08:05:41.456Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="wyRHwaDWyYISpQK7TFjv" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-29T08:13:36.427Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="96yP5BdCq3YhWPOvsA4i" version="21.1.1" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="1121" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -36,7 +36,7 @@
         <mxCell id="gCfHL2DRp-Cu8pf_gesU-9" value="服务提供商" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="140" y="100" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gCfHL2DRp-Cu8pf_gesU-10" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.azure.cloud;fillColor=#D4E1F5;" vertex="1" parent="1">
+        <mxCell id="gCfHL2DRp-Cu8pf_gesU-10" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.azure.cloud;fillColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="345" y="50" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gCfHL2DRp-Cu8pf_gesU-30" value="2.4 发送密文数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
