@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" modified="2023-05-25T11:35:46.935Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="5K5osWTUfKJWLPachfCk" version="21.3.3" type="github">
+  <diagram name="第 1 页" id="P3hnZvfzUJBaZvVC-vb0">
+    <mxGraphModel dx="954" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nwYcl3AEDP56RUKzmAF1-1" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.users;" parent="1" vertex="1">
+          <mxGeometry x="241" y="188" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="nwYcl3AEDP56RUKzmAF1-2" value="模型提供者" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="240" y="272" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nwYcl3AEDP56RUKzmAF1-4" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#067F68;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;" parent="1" vertex="1">
+          <mxGeometry x="401" y="157" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="nwYcl3AEDP56RUKzmAF1-5" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.users;" parent="1" vertex="1">
+          <mxGeometry x="801" y="180" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="nwYcl3AEDP56RUKzmAF1-6" value="公司、研究人员等" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="220" y="296" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nwYcl3AEDP56RUKzmAF1-7" value="将模型上传至云端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="380" y="117" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nwYcl3AEDP56RUKzmAF1-8" value="数据拥有者" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="800" y="266" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nwYcl3AEDP56RUKzmAF1-11" value="&lt;div&gt;医院、机构或个人&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="780" y="288" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nwYcl3AEDP56RUKzmAF1-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="263" as="sourcePoint" />
+            <mxPoint x="506" y="263" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nwYcl3AEDP56RUKzmAF1-13" value="提供机器学习服务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="645" y="208" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="30_81Eyi-aDZBy7GI1M5-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="256" as="sourcePoint" />
+            <mxPoint x="776" y="255.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="30_81Eyi-aDZBy7GI1M5-2" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="30_81Eyi-aDZBy7GI1M5-3" value="云服务提供商" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="535" y="280" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="30_81Eyi-aDZBy7GI1M5-4" value="&lt;div&gt;亚马逊、微软或阿里等&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="515" y="302" width="140" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
